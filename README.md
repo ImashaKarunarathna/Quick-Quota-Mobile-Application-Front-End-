@@ -1,1 +1,4 @@
 # Quick-Quota-Mobile-Application-Front-End-
+Quick Quota is a comprehensive screen tracking app available on both web and mobile platforms. It helps users monitor and manage their screen time effectively, promoting healthier digital habits. The app offers detailed insights, customizable alerts, and user-friendly interfaces to ensure a balanced digital lifestyle.
+
+The front-end of the Quick Quota mobile app, built with React Native for Android, features a modern and intuitive user interface. It includes a responsive design with smooth animations, a clean and visually appealing layout using a modern color scheme, and clear typography. The app uses React Native components to create a native-like experience, with efficient navigation through a bottom navigation bar. State management is handled with Redux or Context API, ensuring smooth data updates. The app's design ensures that users can easily track their screen time with interactive charts and customizable settings.
